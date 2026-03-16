@@ -27,4 +27,8 @@ cd Python-Calculator
 
 3. Run the program
 
+<<<<<<< HEAD
 python calculator.py
+=======
+python calculator.py
+>>>>>>> bd28b2d9cd6a011f92f218b108437a0ffb1224df
